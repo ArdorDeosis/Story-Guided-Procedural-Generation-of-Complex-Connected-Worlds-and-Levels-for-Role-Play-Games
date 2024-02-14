@@ -4,7 +4,7 @@ Find more procedural generation content at [procgen.space](https://procgen.space
 
 # Story Guided Procedural Generation of Complex Connected Worlds and Levels for Role Play Games
 
-[![Static Badge](https://img.shields.io/badge/open-PDF-orange)](/thesis-beyer.pdf)
+[![Static Badge](https://img.shields.io/badge/download-PDF-orange)]([/thesis-beyer.pdf](https://ardordeosis.github.io/Story-Guided-Procedural-Generation-of-Complex-Connected-Worlds-and-Levels-for-Role-Play-Games/thesis-beyer.pdf))
 
 ## Abstract
 
