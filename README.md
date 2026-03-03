@@ -1,7 +1,5 @@
 My master's thesis about procedurally generating a whole world for a Pokémon game.
 
-Find more procedural generation content at [procgen.space](https://procgen.space/resources)!
-
 # Story Guided Procedural Generation of Complex Connected Worlds and Levels for Role Play Games
 
 [![Static Badge](https://img.shields.io/badge/download-PDF-orange)](https://ardordeosis.github.io/Story-Guided-Procedural-Generation-of-Complex-Connected-Worlds-and-Levels-for-Role-Play-Games/thesis-beyer.pdf)
